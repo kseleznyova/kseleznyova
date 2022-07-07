@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="[https://kseleznyova.ru/](https://github.com/kseleznyova)" target="_blank">Kseniya</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/kseleznyova" target="_blank">Kseniya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Analyst from Russia 🇷🇺</h3>
 

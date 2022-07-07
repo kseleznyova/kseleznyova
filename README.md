@@ -8,4 +8,4 @@
 
 - 📫 How to reach me: 
    * telegram: @kseleznyova;
-   * mail: kseseleznyova@yandex.ru
+   * mail: ksunily@yandex.ru
